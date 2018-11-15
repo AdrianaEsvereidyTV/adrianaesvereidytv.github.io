@@ -1,7 +1,8 @@
 body {
 	font-family: "Metropolis Regular";
 	background-color: transparent;
-	position: relative;
+  position: relative;
+  background-image: url('https://ae01.alicdn.com/kf/HTB1BLFKalUSMeJjy1zdq6yR3FXa1/-.jpg_640x640.jpg');
 }
 
 .thumbnail {
@@ -31,7 +32,7 @@ body {
 
 /* About me */
 .fondo-total {
-	background-image: url("../assets/piano.png");
+	background-image: url("https://ae01.alicdn.com/kf/HTB1BLFKalUSMeJjy1zdq6yR3FXa1/-.jpg_640x640.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
