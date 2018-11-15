@@ -10,22 +10,6 @@ body {
 }
 
 
-@font-face {
-	font-family: "Metropolis";
-	src: url("../fonts/metropolis-1920/metropolis-1920.otf");
-}
-
-
-@font-face {
-	font-family: "Metropolis Bold";
-	src: url("../fonts/metropolis-1920/Metropolis-Medium.otf");
-}
-
-@font-face {
-	font-family: "Metropolis Regular";
-	src: url("../fonts/metropolis-1920/Metropolis-Regular.otf");
-}
-
 
 .titulos {
 	font-family: "Metropolis Bold";
@@ -42,26 +26,7 @@ body {
 	font-family: "Metropolis";
 }
 
-/* Colores */
-.naranja {
-	color: #ff4000;
-}
 
-.azul {
-	color: blue;
-}
-
-.blanco {
-	color:#FFF;
-}
-
-.big-letter {
-	font-size: 1.3em;
-}
-
-.ocultando {
-	display: none;
-}
 
 
 /* About me */
@@ -131,14 +96,7 @@ body {
   animation-timing-function: ease-in-out;
 }
 
-@keyframes increase {
-  from {
-    width: 0%
-  }
-  to {
-    width: 70%
-  }
-}
+
 
 
 
