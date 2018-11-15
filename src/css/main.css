@@ -53,23 +53,6 @@ body {
 
 /* Sección Proyectos*/
 
-.projects h2 {
-	padding-top: 10%;
-}
-.fondo-gris {
-	background-color: rgba(0, 0, 0, .8);
-}
-
-.gris {
-	color: rgba(0, 0, 0, .8);
-}
-
-
-
-.skills {
-	background-color: #ff4000;
-	margin-bottom: 2%;
-}
 
 .habilidades {
 	padding-bottom: 5%;
